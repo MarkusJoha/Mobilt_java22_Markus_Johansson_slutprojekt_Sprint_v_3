@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168531300029",
+    "project_id": "chatappfirebase-723bd",
+    "storage_bucket": "chatappfirebase-723bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168531300029:android:5c53eca786638dbe60b1d4",
+        "android_client_info": {
+          "package_name": "com.example.sprint_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjOTeW3eynBhtj8tf-lnRHoDbDyhUsaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
